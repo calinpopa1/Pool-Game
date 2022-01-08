@@ -1,4 +1,4 @@
-# Pool-Game
+Pool-Game
 
 Controls:
 Click on any ball then drag your mouse. The further you go the more power you will have when you launch the ball.
